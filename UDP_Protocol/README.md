@@ -4,10 +4,10 @@ This project was completed as part of a university course on computer networks. 
 
 ## ScreenShots:
 
-![Client Script](UDP_Protocol/assets/2.png)
+![Client Script](assets/2.png)
 *The client script sending a "Hello world" message to the server.*
 
-![Server Script](UDP_Protocol/assets/1.png)
+![Server Script](assets/1.png)
 *The server script receiving the message and sending a response.*
 
 ---
